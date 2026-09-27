@@ -1,0 +1,1 @@
+Serverless architectures on AWS allow event-driven scaling.
